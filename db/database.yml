@@ -1,0 +1,9 @@
+staging:
+  database: dinos_staging
+  user: root
+  password: pula
+
+production:
+  database: dinos_production
+  user: root
+  password: pula
